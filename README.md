@@ -1,4 +1,3 @@
-# AG-Church-Website
-Assemblies of God(AG Church)
+# Coming Soon
 
-https://www.agchurchpala.org/
+Placeholder website - Coming Soon
